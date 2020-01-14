@@ -74,9 +74,9 @@ Users are able to control where they want to go within the app. If they make the
 
 Severity rating - 1
 # 4: Consistency and standards
-As stated in #2, the profile icon on the upper right corner does not follow the widely accepted function of providing information about a user's account. Instead, it is utilized as a notification settings page, The back button shown on the upper left corner on non-home pages is misleading as well. The back button, regardless of what order or placement the user is in the app, will take the user straight to the home page. This is a further confusing function since that operation is already provided by the home icon on the bottom home bar.
+The design between the website and app are cohesive and consistent. The messaging layout is dissimilar to most messaging softwares and may be a transitioning issue for new users.
 
-Severity rating - 2
+Severity rating - 1
 # 5: Error prevention
 The app does not have features that would require a user to receive preventative visual aid.
 
