@@ -8,6 +8,8 @@ The UCLA Mobile app describes itself as a "mobile portal that blends UCLA conten
 https://apps.apple.com/us/app/ucla-mobile/id879908764
 ![UCLA Mobile Icon](https://is5-ssl.mzstatic.com/image/thumb/Purple124/v4/d8/07/37/d807379c-aae6-0557-b968-d516579675c2/AppIcon-0-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-7.png/1200x630wa.png)
 
+My first impression of the app was that despite its simple design, the purpose of the app is not clear. The information provided is scattered and are given through what appear to be icons or other apps at first but end up being external website links that could have been searched online. The creators of the app should make more of an effort towards user research to understand the needs of their audience, UCLA students, and to create the ideal daily resource for them.
+
 # 1: Visibility of system status
 The icons within the app have a simple and effective response feedback. An icon will turn grey once clicked on to show what the user has clicked, and has a spinning icon as well, to indicate that a new page is loading. The spinning icon does not display the progress of loading a new page, leaving the user in the dark as to when to expect the page they clicked for.
 
