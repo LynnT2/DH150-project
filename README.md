@@ -9,16 +9,11 @@ https://apps.apple.com/us/app/ucla-mobile/id879908764
 ![UCLA Mobile Icon](https://is5-ssl.mzstatic.com/image/thumb/Purple124/v4/d8/07/37/d807379c-aae6-0557-b968-d516579675c2/AppIcon-0-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-7.png/1200x630wa.png)
 
 # 1: Visibility of system status
-Example: Battery Status, Network Status
-
-Severity rating (1), for example
+The icons within the app have a simple and effective response feedback. An icon will turn grey once clicked on to show what the user has clicked, and has a spinning icon as well, to indicate that a new page is loading. The spinning icon does not display the progress of loading a new page, leaving the user in the dark as to when to expect the page they clicked for.
 
 # 2: Match between system and the real world
-Example: Left-Right sign, bad elevator buttons
-
+The profile icon on the top right of the page is misleading to the user—the icon does not lead to a user's account settings as one would think, but rather lists types of notifications one could opt into, such as via email or text. 
 https://www2.isye.gatech.edu/~jjb/misc/elevators/elevators.html
-
-bad elevator button
 
 # 3: User control and freedom
 Example: No Exit
