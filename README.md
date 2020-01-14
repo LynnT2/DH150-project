@@ -1,4 +1,4 @@
-# DH150-project TITLE
+# DH150-Project Lux
 ## DH150 Assignment01: Heuristic Evaluation by Lynn Tieu
 I'm very proud to be a UCLA student and I love the environment that our school maintains to help us grow as people. UCLA has made several attempts to utilize current and trending technology to assist students with their campus life. However, the numerous phone apps created by the school hinder rather than help the user access the information and resources that UCLA wishes to provide. In order to better these resources, I will evaluate and analyze the **UCLA Mobile app** with the intent to provide students with an intuitive hub of information designed to fit the daily life of a Bruin, as well as **GroupMe**, a communication app widely used among students on campus.
 
