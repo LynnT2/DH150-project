@@ -11,30 +11,41 @@ https://apps.apple.com/us/app/ucla-mobile/id879908764
 # 1: Visibility of system status
 The icons within the app have a simple and effective response feedback. An icon will turn grey once clicked on to show what the user has clicked, and has a spinning icon as well, to indicate that a new page is loading. The spinning icon does not display the progress of loading a new page, leaving the user in the dark as to when to expect the page they clicked for.
 
+Severity rating - 1
 # 2: Match between system and the real world
 The profile icon on the top right of the page is misleading to the user—the icon does not lead to a user's account settings as one would think, but rather lists types of notifications one could opt into, such as via email or text. 
 https://www2.isye.gatech.edu/~jjb/misc/elevators/elevators.html
 
+Severity rating - 1
 # 3: User control and freedom
-Example: No Exit
+Users are able to control where they want to go within the app. If they make the mistake of going on to an undesired page, they simply have to press the back icon on the upper left corner to return to the home page and start over again. 
 
+Severity rating - 1
 # 4: Consistency and standards
-Example: button label (login-), function of icon (go back to home), location of the icon/menu/layout
+As stated in #2, the profile icon on the upper right corner does not follow the widely accepted function of providing information about a user's account. Instead, it is utilized as a notification settings page, The back button shown on the upper left corner on non-home pages is misleading as well. The back button, regardless of what order or placement the user is in the app, will take the user straight to the home page. This is a further confusing function since that operation is already provided by the home icon on the bottom home bar.
 
+Severity rating - 2
 # 5: Error prevention
-Example: booking system that prevents the previous date to the departure,warning messsage about duplicated filename, password setting
+The app is not complex enough to allow the user to make any actions that would create a user error—the app is essentially a pile of links rather than an interactive resource that may be prone to error.
 
+Severity rating - 1
 # 6: Recognition rather than recall
-Example: 404 error (code errors), autofill
+There is a search bar provided at the top of the home page. There is no indicator for what is meant to be searched and its purpose is lost to the user. Since the app does not provide a step-by-step guide of its functions, neither recognition nor recall is applied to this search bar. 
 
+Severity rating - 3
 # 7: Flexibility and efficiency of use
-Example: short cut, copy+paste
+The UCLA Mobile app fails to be an efficient tool for the students on campus. The icons and options listed on the apps all lead to different websites, prompting the question as to why download the app in the first place if the user is going to be led to a website that could have been easily reusable.
 
+Severity rating - 3
 # 8: Aesthetic and minimalist design
-Example: bad background design
+The colors used are few and simple, mainly sticking to a white background and a baby blue text. I would critique the app to be too minimal—the addition of a third color would've added dimension to the overall design of the app pages and would have helped establish a better text hierarchy. The icons are supplemented with labels that take up space on the pages. Removing these labels would make the page feel less crowded with information, and finding icons that are more representative to the content on their page would improve a user's performance on this app.
 
+Severity rating - 3
 # 9: Help users recognize, diagnose, and recover from errors
-Example: required field*, internet connection warning, (404 error)
+The app is not complex enough to allow the user to make any actions that would create a user error—the app is essentially a pile of links rather than an interactive resource that may be prone to error.
 
+Severity rating - 1
 # 10: Help and documentation
-Example: help page, faq form, search, find out more -- chat/online help, provide tour/training.
+The app does not have a help or FAQ page that the user can reference, and leaves the user to fend for themselves when navigating its contents. 
+
+Severity rating - 3
