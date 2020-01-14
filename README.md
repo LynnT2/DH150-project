@@ -14,7 +14,6 @@ The icons within the app have a simple and effective response feedback. An icon 
 Severity rating - 1
 # 2: Match between system and the real world
 The profile icon on the top right of the page is misleading to the user—the icon does not lead to a user's account settings as one would think, but rather lists types of notifications one could opt into, such as via email or text. 
-https://www2.isye.gatech.edu/~jjb/misc/elevators/elevators.html
 
 Severity rating - 1
 # 3: User control and freedom
@@ -33,6 +32,8 @@ Severity rating - 1
 There is a search bar provided at the top of the home page. There is no indicator for what is meant to be searched and its purpose is lost to the user. Since the app does not provide a step-by-step guide of its functions, neither recognition nor recall is applied to this search bar. 
 
 Severity rating - 3
+
+![UCLA Mobile App Home Page](https://cdn.apk-cloud.com/detail/screenshot/4bPcTih26p1clbS9VqMvCaJ68N_VC0qxSNYTcM5j10L9ewqkEa-7SKYs_pwf5Oy6NA=h900.png)
 # 7: Flexibility and efficiency of use
 The UCLA Mobile app fails to be an efficient tool for the students on campus. The icons and options listed on the apps all lead to different websites, prompting the question as to why download the app in the first place if the user is going to be led to a website that could have been easily reusable.
 
