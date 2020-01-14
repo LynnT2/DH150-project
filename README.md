@@ -54,7 +54,7 @@ The app does not have a help or FAQ page that the user can reference, and leaves
 Severity rating - 3
 
 # Heuristic Evaluation for GroupMe
-GroupMe describes itself as "A Home for All the Groups in Your Life". The app allows non-users to chat and interact as well, without a
+GroupMe describes itself as "A Home for All the Groups in Your Life". The dual website/app allows non-users to chat and interact as well, allowing supposed ease for a population of diverse people, like university students, to communicate with each other.
 
 https://groupme.com/en-US/
 ![GroupMe Mobile Icon](https://lh3.googleusercontent.com/7C5_TvMTP3asZu6qYmGGIwOn_s3SH_sCB0KdBhDXauzgSMsRapwoCeL55V4AKAauBIU)
@@ -94,7 +94,8 @@ The colors used are few and simple, mainly sticking to a white background and a 
 
 Severity rating - 3
 
-![UCLA Mobile App Home Page](https://cdn.apk-cloud.com/detail/screenshot/4bPcTih26p1clbS9VqMvCaJ68N_VC0qxSNYTcM5j10L9ewqkEa-7SKYs_pwf5Oy6NA=h900.png)
+![GroupMe Chat Page](https://www.lifewire.com/thmb/54jW4v9QKixszM5Ge8gHqIIEufI=/1928x1101/filters:no_upscale():max_bytes(150000):strip_icc()/groupme-ios-app-5b80367646e0fb0050f113b3.png)
+
 # 9: Help users recognize, diagnose, and recover from errors
 The app is not complex enough to allow the user to make any actions that would create a user error—the app is essentially a pile of links rather than an interactive resource that may be prone to error.
 
