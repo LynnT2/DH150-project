@@ -32,8 +32,6 @@ Severity rating - 1
 There is a search bar provided at the top of the home page. There is no indicator for what is meant to be searched and its purpose is lost to the user. Since the app does not provide a step-by-step guide of its functions, neither recognition nor recall is applied to this search bar. 
 
 Severity rating - 3
-
-![UCLA Mobile App Home Page](https://cdn.apk-cloud.com/detail/screenshot/4bPcTih26p1clbS9VqMvCaJ68N_VC0qxSNYTcM5j10L9ewqkEa-7SKYs_pwf5Oy6NA=h900.png)
 # 7: Flexibility and efficiency of use
 The UCLA Mobile app fails to be an efficient tool for the students on campus. The icons and options listed on the apps all lead to different websites, prompting the question as to why download the app in the first place if the user is going to be led to a website that could have been easily reusable.
 
@@ -42,6 +40,8 @@ Severity rating - 3
 The colors used are few and simple, mainly sticking to a white background and a baby blue text. I would critique the app to be too minimal—the addition of a third color would've added dimension to the overall design of the app pages and would have helped establish a better text hierarchy. The icons are supplemented with labels that take up space on the pages. Removing these labels would make the page feel less crowded with information, and finding icons that are more representative to the content on their page would improve a user's performance on this app.
 
 Severity rating - 3
+
+![UCLA Mobile App Home Page](https://cdn.apk-cloud.com/detail/screenshot/4bPcTih26p1clbS9VqMvCaJ68N_VC0qxSNYTcM5j10L9ewqkEa-7SKYs_pwf5Oy6NA=h900.png)
 # 9: Help users recognize, diagnose, and recover from errors
 The app is not complex enough to allow the user to make any actions that would create a user error—the app is essentially a pile of links rather than an interactive resource that may be prone to error.
 
