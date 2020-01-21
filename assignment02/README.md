@@ -1,3 +1,13 @@
 # DH150 Assignment02 Usability Testing
-## description
-UT Form: https://forms.gle/gWY6VAx8Cwi6C1aHA
+
+## Introduction
+
+The UCLA Mobile app describes itself as a "mobile portal that blends UCLA content and resource links while also featuring UCLA's dynamic app landscape collected into a sliding Apps dashboard for the ease of UCLA's broad and diverse community".
+
+By performing a usability test, I sought to understand the reason for the confusion and difficulty that I felt when performing my heuristic review. I provided my tester with 3 tasks: Searching for vegan options in the dining halls, signing up for wheelchair basketball practices, and finding the Target Bruin Bus times. I was able to conduct testing using a portable minimalistic lab (my phone and computer), using a recording software called Camtasia and a Google Forms form that I created for the purposes of the UT. By understanding the struggle that my testers went through, I could identify the unecessary and necessary aspects of the app and work towards a design that would make the app much easier to navigate. I conducted a pilot test first to ensure that my software and materials all worked, and then conducted the test with my tester. I first informed her the purposes of the test and obtained her consent to continue with the test, and then asked her questions about her background, her experience with the app, and how she felt about the app before and after the test. I was able to measure the ease of navigating through the app, the complexity of the app's structure, the consistency of parts in the app, and the level of knowledge needed to successfully utilize the app in its current state.
+
+The usability materials [here](https://forms.gle/gWY6VAx8Cwi6C1aHA)
+The pilot test video [here](https://drive.google.com/a/g.ucla.edu/file/d/15XgcmrWqQ5rTtBOX97dDfg6A3hFy4rli/view?usp=drivesdk)
+
+## Reflection
+During the pilot test, I learned that it is good to have a person who is comfortable voicing their opinions out loud. My tester has had experience with a UX design position, so she was aware of the importance of explaining her thought process and was very at ease when doing so. The feedback that I received from my tester was great, and I have a better understanding of the difficulties that users go through when using the app. I made some spelling typos in the form and set a question to a multiple choice format rather than a checkboxes format. Other than that, nothing went wrong. I would like to do my testing in a less distracting environment; I thought that the hallway that we were in would be sufficient to perform the test, but found that passerbys and friends made my tester a little distracted. I also realized that my recording software wouldn't show how my friend was using an app, since the software was only on my computer. I intend to connect my phone with my computer the next time I conduct a UT.
