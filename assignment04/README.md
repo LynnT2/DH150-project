@@ -1,4 +1,5 @@
-# Assignment04 Contextual Inquiry
+# Assignment 4 Contextual Inquiry
+
 ## Problem and Solution Overview
 Bruin Mobile is designed to simply be a mobile portal that blends UCLA content and resource links, supposedly to make obtaining UCLA resources easier. Students and faculty alike have trouble navigating the vast resources and information offered on campus. The app intends to address the physiological and safety needs for their users, such as providing a dashboard for the CCLE student portal app and the UCLA SafeRide app. This need is currently addressed by various UCLA websites and social media platforms, as well as word-of-mouth. There is currently no physical main information hub that will give a user access to all desired aspects of the community, and Bruin Mobile seeks to be that hub through digital technology. 
 
@@ -18,4 +19,4 @@ I am conducting my interview(s) with my user(s) through participatory observatio
 [Transcript](https://docs.google.com/document/d/1l_Lo5_ZZ__7CRRuj-vp8Ri8HZVUkxFgPOOaZ8chetDI/edit?usp=sharing)
 
 ## Reflection
-
+The interview progressed smoothly and as expected with my friend and interviewee, Kailey Nichols, who is currently a sophomore studying Cognitive Science and is interested in the UX/UI field. The interview took about 30 minutes as predicted, and the questions that I was able to ask her shed some more light about the issues that some UCLA students and faculty face when living on campus. Kailey brought up some interesting points as a student, notably the difficulty of navigating campus and the lack of commuincation between departments. Despite the efforts to find a quiet space to conduct the interview, we still managed to get interrupted, which was a minor setback to the interview. From the two interviews we have conducted in this course so far, I am finding that having several devices available would be incredibly useful during the interview to collect data. 
