@@ -16,7 +16,7 @@ I am conducting my interview(s) with my user(s) through participatory observatio
 
 [Screen Recording](https://drive.google.com/file/d/1qJXsJ0QTY7dHOnIo6G6mEBxa9Luxq59s/view?usp=sharing)
 
-[Transcript](https://docs.google.com/document/d/1l_Lo5_ZZ__7CRRuj-vp8Ri8HZVUkxFgPOOaZ8chetDI/edit?usp=sharing)
+[Transcript](https://drive.google.com/file/d/19sy4rbz2jkw57h8Y0cc_s1lcLxwd8VHE/view?usp=sharing)
 
 ## Reflection
 The interview progressed smoothly and as expected with my friend and interviewee, Kailey Nichols, who is currently a sophomore studying Cognitive Science and is interested in the UX/UI field. The interview took about 30 minutes as predicted, and the questions that I was able to ask her shed some more light about the issues that some UCLA students and faculty face when living on campus. Kailey brought up some interesting points as a student, notably the difficulty of navigating campus and the lack of commuincation between departments. Despite the efforts to find a quiet space to conduct the interview, we still managed to get interrupted, which was a minor setback to the interview. From the two interviews we have conducted in this course so far, I am finding that having several devices available would be incredibly useful during the interview to collect data. 
