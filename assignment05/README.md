@@ -1,2 +1,6 @@
-## User Personas
-![user 1](https://drive.google.com/file/d/1Niu0vgE6KlPFQMImdXTk1B-KLfRRgJ5D/view?usp=sharing)
+## User Persona 1 - Junior Jessica
+![user 1](https://github.com/LynnT2/DH150-project/issues/1#issue-563330547)
+## User Persona 2 - Freshman Fakhir
+![user 1](https://github.com/LynnT2/DH150-project/issues/1#issue-563330547)
+## User Persona 3 - Professor Pam
+![user 1](https://github.com/LynnT2/DH150-project/issues/1#issue-563330547)
