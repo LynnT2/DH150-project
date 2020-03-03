@@ -6,6 +6,8 @@ Project Lux is a redesign project aimed to improve the current features of the U
 
 When determining a design style for this app, I wanted to create an interface that was familiar and comfortable for the average student to use. The interface that is used on the original UCLA Mobile app is not familiar and makes the overall user experience much worse off that way. I referenced heavily from Facebook and Google Maps to design the map and event feature, and UCLA's CCLE app for the classes feature. The color scheme is simple to avoid creating disctractions on the screen: the main colors are a light UCLA blue, white, and three shades of grey. 
 
+During peer review, I decided to change some phrasings in a couple of components for clarity. 
+
 [Link to interactive prototype](https://www.figma.com/proto/EWFZZuedW35zgAn3sxquTd/dh150?node-id=1%3A3&scaling=scale-down)
 
 ### Screenshot of parts of the Map feature
