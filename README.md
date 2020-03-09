@@ -17,11 +17,9 @@ I was able to learn a lot from the usability test that I performed, but I needed
 
 ## UX storytelling [persona+scenario, assignment05]
 I decided to create my three user personas based off of a student who has attended UCLA for a couple of years, a student who just began their college career, and a faculty member of UCLA. The large student population can be categorized into their different needs—for example, a 4th year will most likely be interested in upcoming events that may relate to their career, while a new 1st year just wants to figure out where they could find the nearest color printer. The faculty and staff which make up the rest of the UCLA population may want to be aware of the student events and facilities on campus as well, and has the potential to bridge the social gap between students, faculty, and staff. The journey maps for each user focuses on the individual need, search, and discovery of information. The new student user persona and his journey map is shown below.
-
-## User Persona 2 - Freshman Fakhir
+## User Persona/Journey Map 2 - Freshman Fakhir
 ![user 2](https://user-images.githubusercontent.com/59623146/74257788-2a891680-4caa-11ea-9d55-afb27129c0ff.jpg)
 ![journey map 2](https://user-images.githubusercontent.com/59623146/74578396-4d852600-4f49-11ea-9907-b396ad22c300.jpg)
-
 (See the other personas and scenarios [here](https://github.com/LynnT2/DH150-project/tree/master/assignment05))
 ## Wireframe and graphic design element variation [assignment07 + part of 08]
 ## Low-fidelity prototype (wireflow, assignment07)
