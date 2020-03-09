@@ -14,4 +14,5 @@ During peer review, I decided to change some phrasings in a couple of components
 ![Screenshot](https://user-images.githubusercontent.com/59623146/75790268-c8a75400-5d1f-11ea-95e8-adec3bc2f5c0.png)
 
 ### Screenshot with wireflow 
-![Screenshot 1](https://user-images.githubusercontent.com/59623146/75790978-c265a780-5d20-11ea-9ef0-43151aab17e7.png)
+![Scan Mar 8, 2020](https://user-images.githubusercontent.com/59623146/76175997-45955c00-616c-11ea-9044-c0bbf5812c90.png)
+<img width="779" alt="75790978-c265a780-5d20-11ea-9ef0-43151aab17e7" src="https://user-images.githubusercontent.com/59623146/76176130-ba689600-616c-11ea-91f5-59dbdbf19b5a.png">
